@@ -1,5 +1,5 @@
 # Mobita Game
-Role-playing game using C.
+Role-playing game using C. <br>
 Tugas besar Algoritma dan Struktur Data 2021.
 
 Nama | NIM | Kelas
