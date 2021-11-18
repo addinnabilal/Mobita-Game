@@ -49,7 +49,7 @@ Status: completed
 11. Ability (Speed boost & increase capacity)
 
 ## Drivers Usage
-# Compile manually using gcc
+### Compile manually using gcc
 1. driver_tas
 2. driver_pesanan
 3. driver_list_linked
@@ -58,11 +58,15 @@ Status: completed
 6. driver_queue
 7. driver_stack
 
-# Run the executable file
+### Run the executable file
 1. driver_drop_off
 2. driver_in_progress
 3. driver_konfigurasi
 4. driver_map
 5. driver_move
-6. driver_pick_uo
+6. driver_pick_up
 7. driver_to_do
+8. driver_buy
+9. driver_command_inventory
+10. inventory_driver
+11. driver_ability
