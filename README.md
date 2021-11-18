@@ -1,4 +1,6 @@
-# Tubes-Alstrukdat
+# Mobita Game
+Role-playing game using C.
+Tugas besar Algoritma dan Struktur Data 2021.
 
 Nama | NIM | Kelas
 --- | --- | --- 
@@ -9,7 +11,7 @@ Addin Nabilal Huda | 13520045 | K01
 Aji Andhika Falah | 13520012 | K01 
 Labib Muhammad Majdi | 10219059 | K01 
 
-
+## Important Link
 Nama | Link 
 --- | --- 
 Olympia | https://olympia.id/course/view.php?id=101#section-2  
@@ -17,11 +19,9 @@ Laporan Tubes | https://docs.google.com/document/d/1IvEI2jyQcwUwPL1SW3IiQymsRt1l
 Form Asistensi | https://docs.google.com/document/d/19bcCRAmqtb4Ipg7mcIXh14-tcRTG_fDHHcaHCf7VgxI/edit?usp=sharing 
 Drive General | https://drive.google.com/drive/folders/1F9ZMJkwp6CqOKKLyZvfg7MpT1Xmx2UxH?usp=sharing
 
-
-
 ## Pembagian Tugas
 Nama | Tugas
---- | 
+--- | ---
 I Gede Arya Raditya P | 
 Hansel Valentino Tanoto |  
 Fitrah Ramadhani Nugroho | 
